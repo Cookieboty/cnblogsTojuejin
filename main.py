@@ -1,4 +1,4 @@
-# coding=utf-8
+# coding: utf8
 import requests
 import os
 import argparse
@@ -7,8 +7,7 @@ import json
 from lxml import etree
 from urllib.parse import urlparse
 import logging
-reload(sys)
-sys.setdefaultencoding('utf-8')
+
 
 parser = argparse.ArgumentParser()
 args_dict = {}
