@@ -1,4 +1,6 @@
 # cnblogs搬家命令行工具demo
+![juejincookie.gif](https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/b05020556219428888babda3757f6faf~tplv-k3u1fbpfcp-watermark.image)
+
 ## 使用
 需要python3环境，请在cookie.json中补充博客园与掘金的cookie<br/>
 使用python3 main.py -h 查看使用说明
